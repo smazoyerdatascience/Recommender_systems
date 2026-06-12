@@ -27,3 +27,5 @@ There are mainly 6 types of the recommendations systems :-
 
 
 Part of this presentation, especially the description of the different kinds of recommender systems comes from Saurav Anand's kaggle project (https://www.kaggle.com/code/saurav9786/recommender-system-using-amazon-reviews)
+
+You can get a very comprehensive description of Recommender systems at this address: https://www.kaggle.com/code/prashant111/recommender-systems-in-python
